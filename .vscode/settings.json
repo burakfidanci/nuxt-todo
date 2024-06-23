@@ -1,6 +1,6 @@
 {
   // Disable the default formatter to use eslint instead in general
-  "prettier.enable": false,
+  "prettier.enable": true,
   "editor.formatOnSave": false,
 
   // Enable general auto fix with eslint
